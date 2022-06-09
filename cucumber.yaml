@@ -1,0 +1,5 @@
+default: -p no_cloud_report -p allure -p bdd  #execução dos retornos
+no_cloud_report: --publish-quiet           #configura para não salvar resultado no site 
+html: --format html --out=logs/report.html #gerar os logs de retornos
+bdd: --format pretty                       # mostrar no terminal os testes
+allure: --format AllureCucumber::CucumberFormatter --out=logs #arquivo para logs do cucumber yaml  arquivos htmls
