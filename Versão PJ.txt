@@ -1,0 +1,16 @@
+ -- +=================================================================+
+     | FILENAME                                                        |
+     |   PJ AUTOMAÇÃO LIVE VENDAS                                      |
+     |                                                                 |
+     | DESCRIPTION                                                     |
+     |   Package contendo as rotinas que serão utilizadas nos          |
+     |   processos relacionado aos cenários de automação do Live vendas|
+     | OVD e FG                                                        |
+     |                                                                 |
+     |   Versão 1.0 - Data: 21/06/2022                                 |
+     +=================================================================+
+     +===============================================================================================================+
+     | ATUALIZAÇÕES                                                                                                  |
+     |                                                                                                               |
+     | Diógenes - 21/06/2022 Criação do Projeto e automação login.feauture e steps_definitions                       |
+     | Jean     - 21/06/2022 Criação dos steps_definitions login.feature esqueceu senha                              |
